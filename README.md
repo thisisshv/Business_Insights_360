@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link]([https://www.novypro.com/project/atliq-hardware-business-insights-360](https://app.powerbi.com/viewr=eyJrIjoiYThiMTYzYTQtMzA0YS00OTQ2LTllOGQtYmE4MGUwMTJhZjg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=ReportSection0e765c0061580b067c73))
+[Live Report Link]((https://app.powerbi.com/viewr=eyJrIjoiYThiMTYzYTQtMzA0YS00OTQ2LTllOGQtYmE4MGUwMTJhZjg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=ReportSection0e765c0061580b067c73))
 
 ## Tech stacks
 
