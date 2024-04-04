@@ -15,7 +15,6 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Excel
 - DAX language
 - DAX studio (for optimizing the report)
-- Project charter file
 
 ## PowerBI techniques Learnt
 
@@ -41,7 +40,6 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 ## GitHub 
 
 - Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
 
 ## Business related terms
 
@@ -210,7 +208,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/thisisshv/Business_Insights_360/blob/main/Report/Business_insights_360.pbix)
 
 
 ## Project Outcome
